@@ -1,5 +1,3 @@
-Deposit.java
-
 package ASimulatorSystem;
 
 import java.awt.*;
