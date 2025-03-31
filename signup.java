@@ -1,5 +1,3 @@
-
-
 package ASimulatorSystem;
 
 import java.awt.*;
